@@ -1,4 +1,4 @@
-variable "ENVIRONMEMT" {
+variable "ENVIRONMENT" {
   
 }
 
